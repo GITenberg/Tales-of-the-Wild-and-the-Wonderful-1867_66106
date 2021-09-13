@@ -1,5 +1,5 @@
 _repo: Tales-of-the-Wild-and-the-Wonderful-1867_66106
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   dubious_author:
     agent_name: Borrow, George
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '4383'
     url: http://www.gutenberg.org/2009/agents/4383
     wikipedia: https://en.wikipedia.org/wiki/George_Borrow
+covers:
+- cover_type: archival
+  image_path: 66106-h/images/covers.jpg
 creator:
   author:
     agent_name: Dods, Mary Diana
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53421
     wikipedia: https://en.wikipedia.org/wiki/Mary_Diana_Dods
 description: Attributed to Mary Diana Dods; formerly attributed to George Henry Borrow.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66106#Tales-of-the-Wild-and-the-Wonderful-1867
 gutenberg_issued: '2021-08-22'
 identifiers:
   gutenberg: '66106'
