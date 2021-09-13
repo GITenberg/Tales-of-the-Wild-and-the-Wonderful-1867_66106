@@ -1,0 +1,40 @@
+_repo: Tales-of-the-Wild-and-the-Wonderful-1867_66106
+_version: 0.0.1
+contributor:
+  dubious_author:
+    agent_name: Borrow, George
+    alias: Borrow, George Henry
+    birthdate: 1803
+    deathdate: 1881
+    gutenberg_agent_id: '4383'
+    url: http://www.gutenberg.org/2009/agents/4383
+    wikipedia: https://en.wikipedia.org/wiki/George_Borrow
+creator:
+  author:
+    agent_name: Dods, Mary Diana
+    aliases:
+    - Lindsay, David
+    - Douglas, Walter Sholto
+    deathdate: 1829
+    gutenberg_agent_id: '53421'
+    url: http://www.gutenberg.org/2009/agents/53421
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Diana_Dods
+description: Attributed to Mary Diana Dods; formerly attributed to George Henry Borrow.
+gutenberg_issued: '2021-08-22'
+identifiers:
+  gutenberg: '66106'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+- !lcsh 'Adventure stories'
+- GITenberg
+tableOfContents: The prediction -- The yellow dwarf -- Der freischütz, from the German
+  of A. Apel -- The fortunes of De la Pole -- The lord of the Maelstrom -- Notes to
+  The lord of the Maelstrom -- The spectre barber -- The sleeping friar; or the stone
+  of Father Cuddy.
+title: Tales of the Wild and the Wonderful [1867]
+url: http://www.gutenberg.org/ebooks/66106
